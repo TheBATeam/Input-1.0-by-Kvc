@@ -1,0 +1,20 @@
+ Input (v1.0) | by Kvc
+ As Cmd has a limitation of not getting both, mouse and Keyboard inputs
+ togehter, but we can get either keyboard or mouse input separately via
+ various external plugins... like 'batbox.exe', 'fn.dll', 'bg.exe' etc.
+
+ But, this plugin here... will allow you to get both inputs given by user
+ It will return, the input was mouse 'm' or Keyboard 'k' and corresponding
+ related data for the input.
+ Created by: Kvc
+ June 5, 2016
+ karanveerchouhan@gmail.com 
+ Visit: www.thebateam.org
+
+You can get more batch plugins like this on the website above...
+Usage:
+ Input.exe 	 - 	 Normal Usage [Without Mouse Hover Info]
+ Input.exe F	 - 	 Full Usage [With Mouse Hover Info, may use aLot of CPU]
+ Input.exe H	- 	 Help Msg
+ For help, type 'h' after Input... otherwise call it as it is.
+ #Kvc with #TheBATeam
